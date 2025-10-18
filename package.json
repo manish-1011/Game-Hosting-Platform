@@ -8,7 +8,7 @@
     "server": "nodemon backend/server.js",
     "client": "npm run dev --prefix frontend"
   },
-  "author": "Devadath",
+  "author": "Manish Vaghmashi",
   "license": "ISC",
   "dependencies": {
     "@mui/x-date-pickers": "^7.13.0",
